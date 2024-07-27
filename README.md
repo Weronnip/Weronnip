@@ -11,7 +11,7 @@ I am a FrontEnd developer from Russia 🇷🇺
 <div align="center">
   <h3>🔎 My statistics</h3>
     <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Weronnip&theme=react&hide_border=true&border_radius=15&card_width=1000&card_height=200&border=EB4A23" alt="GitHub Streak" /></a>
-  <picture align="left">
+  <picture align="start">
     <source
       srcset="https://github-readme-stats.vercel.app/api?username=Weronnip&show_icons=true&theme=react"
       media="(prefers-color-scheme: dark)"
@@ -22,12 +22,19 @@ I am a FrontEnd developer from Russia 🇷🇺
     />
     <img src="https://github-readme-stats.vercel.app/api?username=Weronnip&show_icons=true" />
   </picture>
-  <picture align="center">
+
+  <picture align="end">
     <source
-      srcset="!https://github-readme-stats.vercel.app/api/top-langs/?username=Weronnio&layout=donut)](https://github.com/Weronnip/github-readme-stats")
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Weronnip&layout=compact&theme=react"
       media="(prefers-color-scheme: dark)"
-    />x`
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Weronnip&layout=compact&show_icons=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Weronnip&layout=compact&show_icons=true" />
   </picture>
+
 </div>
 
 ### 👨‍💻 I have the skills to work  with such technologies in programming: 
