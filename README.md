@@ -3,12 +3,32 @@
   <h1 styles="text-align: center;">Hi there, I'm <a href="https://github.com/Weronnip" margin-bottom="100px">Alexey</a>
   <h3 styles="text-align: center;">📱 My social networks</h3>
     <img alt="Static Badge" src="https://img.shields.io/badge/VK-%230000?style=for-the-badge&logo=vk&logoColor=white&color=%230077FF&link=https%3A%2F%2Fvk.com%2Fweronnip">
-  <h3>🔎 My statistics</h3>
-    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Weronnip&theme=dark&hide_border=true&border_radius=5&card_width=1000&card_height=200" alt="GitHub Streak" /></a>
 </div>
 
 ### :man_technologist:: About Me 
 I am a FrontEnd developer from Russia 🇷🇺
+
+<div align="center">
+  <h3>🔎 My statistics</h3>
+    <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Weronnip&theme=react&hide_border=true&border_radius=15&card_width=1000&card_height=200&border=EB4A23" alt="GitHub Streak" /></a>
+  <picture align="left">
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Weronnip&show_icons=true&theme=react"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=Weronnip&show_icons=true"
+      media="(prefers-color-scheme: dark), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api?username=Weronnip&show_icons=true" />
+  </picture>
+  <picture align="center">
+    <source
+      srcset="!https://github-readme-stats.vercel.app/api/top-langs/?username=Weronnio&layout=donut)](https://github.com/Weronnip/github-readme-stats")
+      media="(prefers-color-scheme: dark)"
+    />x`
+  </picture>
+</div>
 
 ### 👨‍💻 I have the skills to work  with such technologies in programming: 
 
