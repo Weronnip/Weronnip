@@ -48,6 +48,7 @@ I am a FrontEnd developer from Russia 🇷🇺
     <img alt="Static Badge" src="https://img.shields.io/badge/HTML5-%230000?style=for-the-badge&logo=html5&logoColor=white&color=%23E34F26">
     <img alt="Static Badge" src="https://img.shields.io/badge/axios-%230000?style=for-the-badge&logo=axios&logoColor=white&color=%235A29E4">
     <br />
+    <img alt="Static Badge" src="https://img.shields.io/badge/nestjs-%23E0234E?style=for-the-badge&logo=nestjs&logoColor=white">
     <img alt="Static Badge" src="https://img.shields.io/badge/CSS3-%230000?style=for-the-badge&logo=css3&logoColor=white&color=%231572B6">
     <img alt="Static Badge" src="https://img.shields.io/badge/SASS%2FSCSS-%230000?style=for-the-badge&logo=sass&logoColor=white&color=%23CC6699">
     <img alt="Static Badge" src="https://img.shields.io/badge/Tailwind%20CSS-%230000?style=for-the-badge&logo=tailwindcss&logoColor=white&color=%2306B6D4">
