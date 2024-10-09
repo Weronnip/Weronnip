@@ -6,7 +6,7 @@
 </div>
 
 ### :man_technologist:: About Me 
-I am a FrontEnd developer from Russia 🇷🇺
+I am a FullStack developer from Russia 🇷🇺
 
 <div align="center">
   <h3>🔎 My statistics</h3>
